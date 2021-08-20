@@ -31,7 +31,7 @@ EXTRA_FOD_ANIMATIONS := true
 
 # Inherit ShapeShiftOS common properties.
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.ssos.cpu=SD865
+    ro.ssos.cpu=Snapdragon™ 865
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
